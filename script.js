@@ -1,0 +1,1 @@
+const desplay = document.getElementById('result');
